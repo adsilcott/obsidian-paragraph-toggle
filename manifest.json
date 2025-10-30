@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-paragraph-toggle",
+	"name": "Paragraph Toggle",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Swich between one and two new-lines between paragraphs.",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"authorUrl": "https://github.com/adsilcott/obsidian-paragraph-toggle",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
